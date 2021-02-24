@@ -1324,8 +1324,13 @@ ion-app.app-root {
   }
 }
 
+// Acorn styles
 
 // Hide private files
 div.addon-block-private-files {
+  display: none;
+}
+
+.core-login-need-help {
   display: none;
 }
