@@ -1323,3 +1323,9 @@ ion-app.app-root {
     }
   }
 }
+
+
+// Hide private files
+div.addon-block-private-files {
+  display: none;
+}
